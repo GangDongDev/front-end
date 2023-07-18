@@ -1,7 +1,9 @@
+import Header from "../component/layout/header";
+
 const Index = () => {
   return (
     <div>
-      <h1>mymemo</h1>
+      <Header></Header>
     </div>
   );
 };
