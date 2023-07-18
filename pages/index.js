@@ -3,7 +3,7 @@ import Header from "../component/layout/header";
 const Index = () => {
   return (
     <div>
-      <Header></Header>
+      <p>test</p>
     </div>
   );
 };
